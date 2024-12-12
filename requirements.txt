@@ -1,3 +1,6 @@
 pandas
 openpyxl
 pyxlsb
+numpy
+scikit-learn
+openpyxl
